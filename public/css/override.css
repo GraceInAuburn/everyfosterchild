@@ -1,0 +1,17 @@
+/*
+Theme Name: Every Foster Child
+Theme URI: https://everyfosterchild.com
+Author: Eric Johnson
+Author URI: https://eatingrichly.com/about/#Eric
+Description: overide the parent theme css.
+Version: 1.02
+Updated: 2019-09-01 14:32:39
+*/
+/* Fix Page Title font */
+#home .welcometext .texttitle {
+  font-family: 'Montserrat', sans-serif;
+}
+/* Fix sidebar color */
+#content .wrapper .sidebar-info a {
+  color: #5d7196;
+}
